@@ -69,12 +69,13 @@
 <h3 align="center">Featured Projects</h3>
 
 <table align="center" width="100%">
+<!-- Row 1 -->
 <tr>
 <td width="50%" valign="top">
 
 #### <a href="https://github.com/NoumanZahid-85/Wildfire-Detection-System">[ 01 ] &nbsp; Wildfire Detection System</a>
 
-> CNN-based wildfire prediction using satellite imagery and real-time meteorological data.
+> CNN‑based wildfire prediction using satellite imagery + real‑time meteorological data.
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -85,24 +86,62 @@
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/NoumanZahid-85/Flights-Price-Prediction-Using-AWS_Sagemaker">[ 02 ] &nbsp; Flight Price Prediction</a>
+#### <a href="https://github.com/NoumanZahid-85/multi-db-rag-system">[ 02 ] &nbsp; Production RAG System</a>
 
-> End-to-end ML pipeline with <b><code>97% accuracy</code></b> deployed on AWS SageMaker.
+> Multi‑database Q&A (PostgreSQL, MySQL, MongoDB) – hybrid retrieval, cross‑encoder reranking, Langfuse tracing, CI eval gates.
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-4C4C4C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAGAS-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 </td>
 </tr>
+
+<!-- Row 2 -->
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/NoumanZahid-85/MERN-Frontend-AWS">[ 03 ] &nbsp; MERN Frontend on AWS</a>
+#### <a href="https://github.com/NoumanZahid-85/AI-Surveillance-with-Low-Light-Object-Detection">[ 03 ] &nbsp; Low‑Light AI Surveillance</a>
 
-> React-based frontend &mdash; containerized and deployed on AWS with a full CI/CD pipeline.
+> YOLOv8 fine‑tuned on ExDark + OpenCV CLAHE enhancement → real‑time night vision dashboard.
+
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Albumentations-3B9E3B?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/NoumanZahid-85/Compakt">[ 04 ] &nbsp; Compakt – Smart URL Shortener</a>
+
+> Password‑protected, expiring, burn‑after‑reading links + QR codes + click analytics.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+</td>
+</tr>
+
+<!-- Row 3 -->
+<tr>
+<td width="50%" valign="top">
+
+#### <a href="https://github.com/NoumanZahid-85/MERN-Frontend-AWS">[ 05 ] &nbsp; MERN Frontend on AWS</a>
+
+> React + Vite frontend containerized & deployed on AWS with full CI/CD pipeline.
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -114,9 +153,9 @@
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/NoumanZahid-85/MERN-Backend-AWS">[ 04 ] &nbsp; MERN Backend on AWS</a>
+#### <a href="https://github.com/NoumanZahid-85/MERN-Backend-AWS">[ 06 ] &nbsp; MERN Backend on AWS</a>
 
-> Node.js + Express API powering the MERN stack &mdash; MongoDB-backed and ready for production on AWS.
+> Node.js + Express API, MongoDB‑backed, ready for production on AWS.
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
