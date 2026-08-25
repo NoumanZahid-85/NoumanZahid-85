@@ -1,6 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  NOUMAN ZAHID · GITHUB PROFILE README · midnight·console·v3              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════ NOUMAN ZAHID · GITHUB PROFILE README · midnight console v5 ═══════════════ -->
 
 <a href="https://github.com/NoumanZahid-85">
   <img
@@ -16,8 +14,13 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="developer animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="developer animation" />
 </div>
+
+<p align="center">
+  I design and ship <b>production-grade AI systems</b>: voice agents, self-reflective RAG pipelines,<br/>
+  and cloud-deployed ML, where the LLM stays a language interface and deterministic engineering does the heavy lifting.
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:7C3AED,100:FF2E63&height=2" alt="divider" />
@@ -25,40 +28,32 @@
 
 <!-- ─────────────────────────────  TECH STACK  ───────────────────────────── -->
 
-<h3 align="center">Tech Stack &amp; Tools</h3>
+<h3 align="center">Tech Stack & Tools</h3>
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <td align="right" valign="middle"><sub><b>Languages</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash" alt="languages" /></a>
-    </td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash" alt="languages" /></td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><sub><b>AI &middot; ML</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="ai-ml" /></a>
-    </td>
+    <td align="right" valign="middle"><sub><b>AI · ML</b></sub></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="ai-ml" /></td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><sub><b>Backend &amp; DB</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql" alt="backend-db" /></a>
-    </td>
+    <td align="right" valign="middle"><sub><b>Backend · DB</b></sub></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,postgres,supabase" alt="backend-db" /></td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><sub><b>Cloud &amp; DevOps</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions" alt="cloud-devops" /></a>
-    </td>
+    <td align="right" valign="middle"><sub><b>Cloud · DevOps</b></sub></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions" alt="cloud-devops" /></td>
   </tr>
   <tr>
     <td align="right" valign="middle"><sub><b>Tools</b></sub></td>
-    <td align="left">
-      <a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,nginx" alt="tools" /></a>
-    </td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,nginx" alt="tools" /></td>
   </tr>
 </table>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:7C3AED,100:FF2E63&height=2" alt="divider" />
@@ -68,100 +63,120 @@
 
 <h3 align="center">Featured Projects</h3>
 
-<table align="center" width="100%">
-<!-- Row 1 -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/Wildfire-Detection-System">[ 01 ] &nbsp; Wildfire Detection System</a>
+#### <a href="https://github.com/NoumanZahid-85/voicesell-ai">[ 01 ] OmniVoice AI · Voice Commerce Agent</a>
 
-> CNN‑based wildfire prediction using satellite imagery + real‑time meteorological data.
+> Voice agent that answers catalog questions and places real orders over a live call: pure-WebSocket pipeline (Silero VAD → Whisper STT → LangGraph → Orpheus TTS), RAG-grounded answers, sub-500 ms first response.
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <a href="https://voicesell-frontend.onrender.com/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-00B4D8?style=flat-square" alt="live demo" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="" />
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/multi-db-rag-system">[ 02 ] &nbsp; Production RAG System</a>
+#### <a href="https://github.com/NoumanZahid-85/TradeCraft-HR">[ 02 ] Tradecraft HR · Grounded AI Screening Interrogator</a>
 
-> Multi‑database Q&A (PostgreSQL, MySQL, MongoDB) – hybrid retrieval, cross‑encoder reranking, Langfuse tracing, CI eval gates.
+> Autonomous recruiter-vetting platform that grounds every interview question in the candidate's real GitHub codebase, runs a lip-synced avatar interview with barge-in, and issues scorecards backed by verbatim transcript evidence.
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-4C4C4C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAGAS-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <a href="https://tradecraft-hr.onrender.com/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-00B4D8?style=flat-square" alt="live demo" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Whisper_STT-7C3AED?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/ReportLab-FF6F00?style=flat-square" alt="" />
 </p>
 
 </td>
 </tr>
 
-<!-- Row 2 -->
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/AI-Surveillance-with-Low-Light-Object-Detection">[ 03 ] &nbsp; Low‑Light AI Surveillance</a>
+#### <a href="https://github.com/NoumanZahid-85/Self-RAG-Bio-Medical-Research-Assistant">[ 03 ] Self-RAG · Biomedical Research Assistant</a>
 
-> YOLOv8 fine‑tuned on ExDark + OpenCV CLAHE enhancement → real‑time night vision dashboard.
+> Self-reflective RAG over a 211k-document PubMed corpus: LLM-judged relevance grading, hallucination checking, query rewriting, and principled abstention when the evidence runs out.
 
 <p>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Albumentations-3B9E3B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="" />
+  <img src="https://img.shields.io/badge/RAGAS-FF6F00?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="" />
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/Compakt">[ 04 ] &nbsp; Compakt – Smart URL Shortener</a>
+#### <a href="https://github.com/NoumanZahid-85/compakt">[ 04 ] Compakt · Smart URL Shortener</a>
 
-> Password‑protected, expiring, burn‑after‑reading links + QR codes + click analytics.
+> Password-protected, expiring, burn-after-reading links plus QR codes and click analytics on Supabase.
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="" />
 </p>
 
 </td>
 </tr>
 
-<!-- Row 3 -->
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/MERN-Frontend-AWS">[ 05 ] &nbsp; MERN Frontend on AWS</a>
+#### <a href="https://github.com/NoumanZahid-85/printwall">[ 05 ] PrintWall · Instant Prints, Infinite Vibes</a>
 
-> React + Vite frontend containerized & deployed on AWS with full CI/CD pipeline.
+> Full-stack social feed where every upload becomes an instant-film print: JWT auth via fastapi-users, drag-and-drop media streamed to ImageKit CDN, WebP transforms for fast loads.
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/ImageKit-3B82F6?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="" />
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/MERN-Backend-AWS">[ 06 ] &nbsp; MERN Backend on AWS</a>
+#### <a href="https://github.com/NoumanZahid-85/car-wash-booking-agent">[ 06 ] Car Wash Dual-Channel Booking Agent</a>
 
-> Node.js + Express API, MongoDB‑backed, ready for production on AWS.
+> WhatsApp (Baileys + Groq) and live-voice (LiveKit + Uplift AI) agents sharing one deterministic FastAPI engine: Postgres row-level locking makes double-booking impossible across channels.
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Baileys-25D366?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/LiveKit-black?style=flat-square&logo=livekit&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Uplift_AI_TTS-F59E0B?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="" />
 </p>
 
 </td>
@@ -174,32 +189,20 @@
 
 <!-- ─────────────────────────────  GITHUB STATS  ───────────────────────────── -->
 
-<h3 align="center">GitHub Stats &amp; Activity</h3>
+<h3 align="center">GitHub Stats & Activity</h3>
 
-<p align="center">
-  <a href="https://github.com/NoumanZahid-85">
-    <img height="180" alt="streak"
-      src="https://streak-stats.demolab.com?user=NoumanZahid-85&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF2E63&fire=FF2E63&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" />
-  </a>
-  <a href="https://github.com/NoumanZahid-85">
-    <img height="180" alt="stats"
-      src="https://github-readme-stats.vercel.app/api?username=NoumanZahid-85&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF2E63&text_color=C9D1D9&ring_color=7C3AED&border_radius=12&rank_icon=github" />
-  </a>
+<div align="center">
+
+<p>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NoumanZahid-85&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF2E63&text_color=C9D1D9&ring_color=7C3AED&border_radius=12&rank_icon=github" />
+  <img height="165" alt="streak stats" src="https://streak-stats.demolab.com?user=NoumanZahid-85&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF2E63&fire=FF2E63&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/NoumanZahid-85">
-    <img height="180" alt="languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanZahid-85&layout=compact&hide=html,css&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=12" />
-  </a>
+<p>
+  <img height="190" alt="top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NoumanZahid-85&layout=compact&hide=html,css&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=12" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/NoumanZahid-85">
-    <img width="96%" alt="activity graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=NoumanZahid-85&bg_color=0D1117&color=00D4FF&line=FF2E63&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution+Pulse+%E2%80%94+last+12+months&radius=12" />
-  </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:7C3AED,100:FF2E63&height=2" alt="divider" />
@@ -234,5 +237,5 @@
 />
 
 <p align="center">
-  <sub><i>Thanks for visiting &mdash; let's build something great together.</i></sub>
+  <sub><i>Thanks for visiting, let's build something great together.</i></sub>
 </p>
