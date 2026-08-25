@@ -1,6 +1,6 @@
 <!-- ═══════════════ NOUMAN ZAHID · GITHUB PROFILE README · midnight console v5 ═══════════════ -->
 
-<a href="https://github.com/NoumanZahid-85">
+<a href="https://github.com/noumanzahid-85">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00D4FF,75:7C3AED,100:FF2E63&height=230&section=header&text=Nouman%20Zahid&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AIML%20%C2%B7%20MLOps%20%C2%B7%20AWS%20Cloud&descAlignY=60&descSize=18"
     alt="header"
@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/NoumanZahid-85">
+  <a href="https://github.com/noumanzahid-85">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=720&height=42&lines=Hi%2C+I'm+Nouman+Zahid+%F0%9F%91%8B;AIML+Engineer;MLOps+Engineer;AWS+Cloud+Engineer" alt="typing identity" />
   </a>
 </p>
@@ -67,7 +67,7 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/voicesell-ai">[ 01 ] OmniVoice AI · Voice Commerce Agent</a>
+#### <a href="https://github.com/noumanzahid-85/voicesell-ai">[ 01 ] OmniVoice AI · Voice Commerce Agent</a>
 
 > Voice agent that answers catalog questions and places real orders over a live call: pure-WebSocket pipeline (Silero VAD → Whisper STT → LangGraph → Orpheus TTS), RAG-grounded answers, sub-500 ms first response.
 
@@ -87,7 +87,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/TradeCraft-HR">[ 02 ] Tradecraft HR · Grounded AI Screening Interrogator</a>
+#### <a href="https://github.com/noumanzahid-85/TradeCraft-HR">[ 02 ] Tradecraft HR · Grounded AI Screening Interrogator</a>
 
 > Autonomous recruiter-vetting platform that grounds every interview question in the candidate's real GitHub codebase, runs a lip-synced avatar interview with barge-in, and issues scorecards backed by verbatim transcript evidence.
 
@@ -109,7 +109,7 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/Self-RAG-Bio-Medical-Research-Assistant">[ 03 ] Self-RAG · Biomedical Research Assistant</a>
+#### <a href="https://github.com/noumanzahid-85/Self-RAG-Bio-Medical-Research-Assistant">[ 03 ] Self-RAG · Biomedical Research Assistant</a>
 
 > Self-reflective RAG over a 211k-document PubMed corpus: LLM-judged relevance grading, hallucination checking, query rewriting, and principled abstention when the evidence runs out.
 
@@ -128,7 +128,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/compakt">[ 04 ] Compakt · Smart URL Shortener</a>
+#### <a href="https://github.com/noumanzahid-85/compakt">[ 04 ] Compakt · Smart URL Shortener</a>
 
 > Password-protected, expiring, burn-after-reading links plus QR codes and click analytics on Supabase.
 
@@ -146,7 +146,7 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/printwall">[ 05 ] PrintWall · Instant Prints, Infinite Vibes</a>
+#### <a href="https://github.com/noumanzahid-85/printwall">[ 05 ] PrintWall · Instant Prints, Infinite Vibes</a>
 
 > Full-stack social feed where every upload becomes an instant-film print: JWT auth via fastapi-users, drag-and-drop media streamed to ImageKit CDN, WebP transforms for fast loads.
 
@@ -163,7 +163,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-#### <a href="https://github.com/NoumanZahid-85/car-wash-booking-agent">[ 06 ] Car Wash Dual-Channel Booking Agent</a>
+#### <a href="https://github.com/noumanzahid-85/car-wash-booking-agent">[ 06 ] Car Wash Dual-Channel Booking Agent</a>
 
 > WhatsApp (Baileys + Groq) and live-voice (LiveKit + Uplift AI) agents sharing one deterministic FastAPI engine: Postgres row-level locking makes double-booking impossible across channels.
 
@@ -194,12 +194,12 @@
 <div align="center">
 
 <p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NoumanZahid-85&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF2E63&text_color=C9D1D9&ring_color=7C3AED&border_radius=12&rank_icon=github" />
-  <img height="165" alt="streak stats" src="https://streak-stats.demolab.com?user=NoumanZahid-85&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF2E63&fire=FF2E63&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=noumanzahid-85&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF2E63&text_color=C9D1D9&ring_color=7C3AED&border_radius=12&rank_icon=github" />
+  <img height="165" alt="streak stats" src="https://streak-stats.demolab.com?user=noumanzahid-85&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF2E63&fire=FF2E63&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" />
 </p>
 
 <p>
-  <img height="190" alt="top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NoumanZahid-85&layout=compact&hide=html,css&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=12" />
+  <img height="190" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanzahid-85&layout=compact&hide=html,css&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=12" />
 </p>
 
 </div>
@@ -216,7 +216,7 @@
   <a href="https://linkedin.com/in/nouman-zahid">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/NoumanZahid-85">
+  <a href="https://github.com/noumanzahid-85">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
   </a>
   <a href="https://medium.com/@nouman-zahid">
